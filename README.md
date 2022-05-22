@@ -10,4 +10,5 @@
     php artisan db:seed --class=TypeVehiclesSeeder
 
 > Doc
+
     postman/Vahicles.postman_collection.json
